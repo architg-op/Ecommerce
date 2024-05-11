@@ -2,15 +2,15 @@ import { lazy } from 'react';
 const Login = lazy(() => import('../../views/auth/Login'));
 const Register = lazy(() => import('../../views/auth/Register'));
 
-const publicRoutes = [
+const PublicRoutes = [
   {
     path: '/login',
-    component: <Login />,
+    element: <Login />,
   },
   {
     path: '/register',
-    component: <Register />,
+    element: <Register />,
   },
 ];
 
-export default publicRoutes;
+export default PublicRoutes;
