@@ -1,0 +1,1 @@
+import{j as e}from"./Index-BqzpyFq6.js";function n(){return e.jsx("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"100vh",backgroundColor:"#cdcae9"},children:"Landing Page will be built shortly, currently login, register and admin-login routes are available to explore."})}export{n as default};
