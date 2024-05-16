@@ -93,7 +93,7 @@ function Register() {
             <div className="flex items-center mb-3 gap-3 justify-center">
               <p>
                 Already Have an account ?{' '}
-                <Link className="font-bold" to="/login">
+                <Link className="font-bold" to="/Ecommerce/login">
                   Sign In
                 </Link>{' '}
               </p>
